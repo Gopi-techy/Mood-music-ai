@@ -11,13 +11,11 @@ Currently, only the latest version of the application is supported with security
 
 ## Reporting a Vulnerability
 
-If you discover any security-related issues, please do not disclose the vulnerability publicly until it has been addressed. 
-
-Instead, you can report vulnerabilities by sending an email or by opening a private security advisory on GitHub if this repository has the feature enabled.
+If you discover any security-related issues, we encourage open discussion. You can report vulnerabilities publicly by opening an issue on our GitHub repository. We believe in transparency and community collaboration to address security concerns.
 
 When reporting a vulnerability, please provide the following information:
 - A description of the vulnerability and its potential impact.
 - The steps required to reproduce the issue.
 - Any potential solutions or mitigations if known.
 
-We take all security vulnerabilities seriously and will work to resolve any reported issues promptly.
+We appreciate your efforts to keep our project secure!
